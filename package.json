@@ -1,0 +1,23 @@
+{
+  "name": "coke-music-data",
+  "version": "1.0.0",
+  "description": "data for coke music recreation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterhat/coke-music-data.git"
+  },
+  "keywords": [
+    "coke",
+    "music",
+    "cokemusic",
+    "data",
+    "cache",
+    "rooms"
+  ],
+  "author": "Zorian Medwid <misterhat144@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/misterhat/coke-music-data/issues"
+  },
+  "homepage": "https://github.com/misterhat/coke-music-data#readme"
+}
