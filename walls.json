@@ -1,4 +1,5 @@
 [
     { "name": "Wall A", "file": "wall_a" },
-    { "name": "Wall B", "file": "wall_b" }
+    { "name": "Wall B", "file": "wall_b" },
+    { "name": "Wall C", "file": "wall_c" }
 ]
