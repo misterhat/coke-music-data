@@ -1,7 +1,20 @@
 {
     "northern_minibar": {
+        "title": "Northern Minibar",
+        "description": "I'm coolin' fam.",
         "width": 70,
         "height": 70,
+        "tileWidth": 1,
+        "tileHeight": 1,
         "angles": 2
+    },
+    "coke_couch": {
+        "title": "Coke Couch",
+        "description": "Never forget homies.",
+        "width": 116,
+        "height": 98,
+        "tileWidth": 2,
+        "tileHeight": 1,
+        "angles": 4
     }
 }
