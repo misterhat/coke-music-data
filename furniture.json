@@ -6,15 +6,45 @@
         "height": 70,
         "tileWidth": 1,
         "tileHeight": 1,
-        "angles": 2
+        "angles": 2,
+        "offsetX": 0,
+        "offsetY": 0,
+        "sit": false
     },
     "coke_couch": {
         "title": "Coke Couch",
         "description": "Never forget homies.",
         "width": 116,
-        "height": 118,
+        "height": 98,
         "tileWidth": 2,
         "tileHeight": 1,
-        "angles": 4
+        "angles": 4,
+        "offsetX": 0,
+        "offsetY": 16,
+        "sit": true
+    },
+    "gumball_machine": {
+        "title": "Coke Gum Machine",
+        "description": "Secretly coke inside the gumballs.",
+        "width": 70,
+        "height": 112,
+        "tileWidth": 1,
+        "tileHeight": 1,
+        "angles": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "sit": false
+    },
+    "northern_table": {
+        "title": "Northern Table",
+        "description": "A table.",
+        "width": 136,
+        "height": 84,
+        "tileWidth": 1,
+        "tileHeight": 1,
+        "angles": 1,
+        "offsetX": -32,
+        "offsetY": 0,
+        "sit": false
     }
 }
