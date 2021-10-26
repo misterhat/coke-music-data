@@ -6,7 +6,7 @@
         "height": 70,
         "tileWidth": 1,
         "tileHeight": 1,
-        "angles": 2,
+        "angles": [1, 3],
         "offsetX": 0,
         "offsetY": 0,
         "sit": false
@@ -18,7 +18,7 @@
         "height": 98,
         "tileWidth": 2,
         "tileHeight": 1,
-        "angles": 4,
+        "angles": [0, 1, 2, 3],
         "offsetX": 0,
         "offsetY": 16,
         "sit": true
@@ -30,7 +30,7 @@
         "height": 112,
         "tileWidth": 1,
         "tileHeight": 1,
-        "angles": 1,
+        "angles": [0],
         "offsetX": 0,
         "offsetY": 0,
         "sit": false
@@ -42,9 +42,66 @@
         "height": 84,
         "tileWidth": 1,
         "tileHeight": 1,
-        "angles": 1,
+        "angles": [0],
         "offsetX": -32,
         "offsetY": 0,
         "sit": false
+    },
+    "polar_bear": {
+        "title": "Polar Bear",
+        "description": "",
+        "width": 70,
+        "height": 108,
+        "tileWidth": 1,
+        "tileHeight": 1,
+        "angles": [0, 1, 2, 3],
+        "offsetX": 0,
+        "offsetY": 0,
+        "sit": false
+    },
+    "pinball_machine": {
+        "title": "Pinball Machine",
+        "description": "",
+        "width": 108,
+        "height": 123,
+        "tileWidth": 2,
+        "tileHeight": 1,
+        "angles": [0, 2],
+        "offsetX": 0,
+        "offsetY": 16
+    },
+    "plant": {
+        "title": "Plant",
+        "description": "",
+        "width": 83,
+        "height": 108,
+        "tileWidth": 1,
+        "tileHeight": 1,
+        "angles": [0],
+        "offsetX": -4,
+        "offsetY": 0
+    },
+    "blocks": {
+        "title": "Blocks",
+        "description": "Stops people.",
+        "width": 108,
+        "height": 95,
+        "tileWidth": 2,
+        "tileHeight": 1,
+        "angles": [0, 2],
+        "offsetX": 0,
+        "offsetY": 16
+    },
+    "grunge_couch": {
+        "title": "Grunge Couch",
+        "description": "",
+        "width": 116,
+        "height": 100,
+        "tileWidth": 2,
+        "tileHeight": 1,
+        "angles": [0, 1, 2, 3],
+        "offsetX": 0,
+        "offsetY": 16,
+        "sit": true
     }
 }
