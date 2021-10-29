@@ -1,0 +1,17 @@
+[
+    { "headIndex": 0, "faceIndex": 0, "eyeIndex": 0 },
+    { "headIndex": 0, "faceIndex": 1, "eyeIndex": 0 },
+    { "headIndex": 0, "faceIndex": 2, "eyeIndex": 0 },
+    { "headIndex": 0, "faceIndex": 0, "eyeIndex": 1 },
+    { "headIndex": 0, "faceIndex": 1, "eyeIndex": 1 },
+    { "headIndex": 0, "faceIndex": 2, "eyeIndex": 1 },
+    { "headIndex": 0, "faceIndex": 0, "eyeIndex": 2 },
+    { "headIndex": 0, "faceIndex": 1, "eyeIndex": 2 },
+    { "headIndex": 0, "faceIndex": 2, "eyeIndex": 2 },
+    { "headIndex": 1, "faceIndex": 1, "eyeIndex": 0 },
+    { "headIndex": 1, "faceIndex": 1, "eyeIndex": 1 },
+    { "headIndex": 1, "faceIndex": 1, "eyeIndex": 2 },
+    { "headIndex": 2, "faceIndex": 1, "eyeIndex": 0 },
+    { "headIndex": 2, "faceIndex": 1, "eyeIndex": 1 },
+    { "headIndex": 2, "faceIndex": 1, "eyeIndex": 2 }
+]
