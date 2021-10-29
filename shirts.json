@@ -1,0 +1,23 @@
+[
+    { "shirtIndex": 0, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 1, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 2, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 3, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 4, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 5, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 6, "sleeveIndex": 0, "female": true },
+    { "shirtIndex": 7, "sleeveIndex": 0, "female": true },
+    { "shirtIndex": 8, "sleeveIndex": 0, "female": true },
+    { "shirtIndex": 9, "sleeveIndex": 0, "female": true },
+    { "shirtIndex": 10, "sleeveIndex": -1, "female": true },
+    { "shirtIndex": 11, "sleeveIndex": -1, "female": true },
+    { "shirtIndex": 12, "sleeveIndex": 0, "female": true },
+    { "shirtIndex": 13, "sleeveIndex": 0, "female": true },
+    { "shirtIndex": 14, "sleeveIndex": 1, "female": false },
+    { "shirtIndex": 15, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 16, "sleeveIndex": 0, "female": true },
+    { "shirtIndex": 17, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 18, "sleeveIndex": 0, "female": true },
+    { "shirtIndex": 19, "sleeveIndex": 0, "female": false },
+    { "shirtIndex": 20, "sleeveIndex": -1, "female": true }
+]

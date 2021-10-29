@@ -103,5 +103,17 @@
         "offsetX": 0,
         "offsetY": 16,
         "sit": true
+    },
+    "cow_bean_bag": {
+        "title": "Cow Bean Bag Chair",
+        "description": "",
+        "width": 70,
+        "height": 63,
+        "tileWidth": 1,
+        "tileHeight": 1,
+        "angles": [0, 1, 2, 3],
+        "offsetX": 0,
+        "offsetY": 0,
+        "sit": true
     }
 }
