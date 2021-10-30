@@ -14,7 +14,31 @@ definitions for eye, head and face combinations.
 ## furniture.json
 definitions for non-rug/poster furniture and objects.
 
+icons and sprites are located in:
+https://github.com/misterhat/coke-music-client/tree/master/dist/assets/furniture
+
 ```javascript
+{
+    "furniture_name": { // name used in /assets/furniture/
+        "title": "Display Name", // displayed in catalogue or object settings
+        "description": "I'm coolin' fam.", // displayed in catalogue
+        "width": 70, // sprite width
+        "height": 70, // sprite height
+        "tileWidth": 1, // iso width
+        "tileHeight": 1, // iso height
+        "angles": [1, 3], // which angles [ne, sw, nw, se] = [0, 1, 2, 3]
+        "offsetX": 0, // for angles 0, 1
+        "offsetY": 0, // for angles 2, 3
+        "sit": false // non-blocking and sittable
+    }, // ...
+}
+```
+
+## posters.json
+definitions for poster items.
+
+```javascript
+
 ```
 
 ## rooms.json
