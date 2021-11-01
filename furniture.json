@@ -94,7 +94,7 @@
     },
     "grunge_couch": {
         "title": "Grunge Couch",
-        "description": "",
+        "description": "Messy as ever.",
         "width": 116,
         "height": 100,
         "tileWidth": 2,
@@ -187,5 +187,29 @@
         "offsetX": 0,
         "offsetY": 0,
         "sit": false
+    },
+    "dorm_couch": {
+        "title": "Dorm Couch",
+        "description": "",
+        "width": 116,
+        "height": 98,
+        "tileWidth": 2,
+        "tileHeight": 1,
+        "angles": [0, 1, 2, 3],
+        "offsetX": 0,
+        "offsetY": 16,
+        "sit": true
+    },
+    "oyster_couch": {
+        "title": "Oyster Couch",
+        "description": "",
+        "width": 116,
+        "height": 114,
+        "tileWidth": 2,
+        "tileHeight": 1,
+        "angles": [0, 1, 2, 3],
+        "offsetX": 0,
+        "offsetY": 16,
+        "sit": true
     }
 }

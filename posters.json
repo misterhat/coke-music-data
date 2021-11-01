@@ -1,10 +1,12 @@
 {
     "disco_poster": {
         "title": "Disco Poster",
-        "description": ""
+        "description": "",
+        "width": 48
     },
     "golden_poster": {
         "title": "Golden Record",
-        "description": ""
+        "description": "",
+        "width": 46
     }
 }

@@ -8,7 +8,23 @@ and [coke-music-server](https://github.com/misterhat/coke-music-server).
 ## faces.json
 definitions for eye, head and face combinations.
 
+`headIndex` determines which vertical spritesheet offset to use in
+[heads.png](https://github.com/misterhat/coke-music-client/blob/master/dist/assets/character/heads.png).
+
+`faceIndex` determines which vertical spritesheet offset to use in
+[faces.png](https://github.com/misterhat/coke-music-client/blob/master/dist/assets/character/faces.png).
+
+`eyeIndex` determines which vertical spritesheet offset to use in
+[eyes.png](https://github.com/misterhat/coke-music-client/blob/master/dist/assets/character/eyes.png).
+
 ```javascript
+[
+    {
+        "headIndex": 0,
+        "faceIndex": 0,
+        "eyeIndex": 0
+    }, // ...
+]
 ```
 
 ## furniture.json
@@ -16,6 +32,9 @@ definitions for non-rug/poster furniture and objects.
 
 icons and sprites are located in:
 https://github.com/misterhat/coke-music-client/tree/master/dist/assets/furniture
+
+sittable objects also have a \_foreground sprite variant, which is drawn on
+top of the sitting character sprites.
 
 ```javascript
 {
@@ -104,7 +123,7 @@ definitions for wearable shirt and sleeve sprites.
 `shirtIndex` determines which vertical spritesheet offset to use in
 [shirts.png](https://github.com/misterhat/coke-music-client/blob/master/dist/assets/character/shirts.png).
 
-`sleeveIndex` determines which horizontal spritesheet offset to use into
+`sleeveIndex` determines which horizontal spritesheet offset to use in
 [sleeves.png](https://github.com/misterhat/coke-music-client/blob/master/dist/assets/character/sleeves.png).
 
 ```javascript
