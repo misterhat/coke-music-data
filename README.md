@@ -28,7 +28,7 @@ definitions for eye, head and face combinations.
 ```
 
 ## furniture.json
-definitions for non-rug/poster furniture and objects.
+definitions for non-rug/non-poster furniture items.
 
 icons and sprites are located in:
 https://github.com/misterhat/coke-music-client/tree/master/dist/assets/furniture
@@ -57,7 +57,13 @@ top of the sitting character sprites.
 definitions for poster items.
 
 ```javascript
-
+{
+    "disco_poster": { // name used in /assets/furniture/
+        "title": "Disco Poster", // name in catalogue or object settings
+        "description": "", // displayed in catalogue
+        "width": 48 // image width
+    }, // ...
+}
 ```
 
 ## rooms.json
@@ -65,7 +71,7 @@ definitions for character studios.
 
 ```javascript
 {
-    "studio_name": {
+    "studio_name": { // name used in /assets/rooms/
         // offset of the 0, 0 isometric grid
         "offsetX": 380,
         "offsetY": 112,
@@ -117,6 +123,20 @@ definitions for character studios.
 }
 ```
 
+## rugs.json
+definitions for tile-covering rugs, carpets, etc. items.
+
+```javascript
+{
+    "rug_name": {
+        "title": "Rug Name",
+        "description": "",
+        "tileHeight": 3,
+        "tileWidth": 3
+    }, // ...
+}
+```
+
 ## shirts.json
 definitions for wearable shirt and sleeve sprites.
 
@@ -136,4 +156,33 @@ definitions for wearable shirt and sleeve sprites.
 ]
 ```
 
+## tiles.json
+definitions for custom floor tiles.
+
+https://github.com/misterhat/coke-music-client/blob/master/dist/assets/tiles/
+
+```javascript
+[
+    {
+        "name": "Purple Carpet", // used in room settings
+        "file": "purple_carpet"  // file in /assets/tiles/
+    }, // ...
+]
+```
+
+## walls.json
+definitions for custom wall textures.
+
+https://github.com/misterhat/coke-music-client/blob/master/dist/assets/walls/
+
+```javascript
+[
+    {
+        "name": "Wall A", // used in room settings
+        "file": "wall_a"  // file in /assets/walls/
+    }, // ...
+]
+```
+
 ## license
+CC-BY-SA-4.0
